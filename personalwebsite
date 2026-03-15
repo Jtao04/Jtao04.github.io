@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="interests.html">Interests</a>
+  </nav>
+
+  <header>
+    <h1>Welcome to My Portfolio</h1>
+  </header>
+
+  <main>
+    <section class="intro">
+      <img src="https://via.placeholder.com/200" alt="A photo of me" class="profile-img"/>
+
+      <p>
+        Hi! My name is [Your Name], and I am a student at Northeastern University studying
+        Data Science. I have always been passionate about using data to uncover meaningful
+        insights and tell compelling stories. Over the past few years, I have explored many
+        areas within the field, from machine learning and statistical modeling to data
+        visualization and storytelling.
+      </p>
+      <p>
+        I grew up fascinated by numbers and patterns, which naturally led me toward a career
+        in data science. Outside of academics, I enjoy hiking, reading about technology trends,
+        and working on personal coding projects. I believe that the best way to learn something
+        is to build something, so I am always working on a side project or exploring a new
+        dataset in my spare time.
+      </p>
+      <p>
+        This website is a space where I share a bit about who I am, what I care about, and
+        what I am working on. Whether you are a recruiter, a fellow student, or just curious,
+        I hope you find something interesting here. Feel free to reach out — I am always happy
+        to connect and chat about data, technology, or anything in between. Thanks for stopping by!
+      </p>
+    </section>
+
+    <section class="contact">
+      <h2>Contact Me</h2>
+      <p>Email: <a href="mailto:yourname@northeastern.edu">yourname@northeastern.edu</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+      <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

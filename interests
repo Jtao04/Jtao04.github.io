@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Interests</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="interests.html">Interests</a>
+  </nav>
+
+  <header>
+    <h2>My Interests & Projects</h2>
+  </header>
+
+  <main>
+    <section class="intro">
+      <img src="https://via.placeholder.com/400x200" alt="Data visualization example" class="banner-img"/>
+
+      <p>
+        One of my biggest interests is data visualization. I love the challenge of taking a
+        complex dataset and transforming it into something visually clear and intuitive. Tools
+        like D3.js, Python's Matplotlib, and Tableau have become central to how I approach
+        analysis and presentation. I believe that a well-designed chart can communicate more
+        effectively than a paragraph of text.
+      </p>
+      <p>
+        Beyond visualization, I am deeply interested in machine learning. I enjoy working on
+        classification and regression problems, exploring how different algorithms behave on
+        real-world data. I have worked on projects ranging from predicting housing prices to
+        analyzing sentiment in social media posts. Each project teaches me something new about
+        both the data and the methods used to interpret it.
+      </p>
+      <p>
+        I am also passionate about open-source collaboration and believe strongly in sharing
+        knowledge with the broader community. Contributing to projects on GitHub and learning
+        from others' code has been one of the most valuable parts of my education.
+      </p>
+
+      <h3>Skills & Tools</h3>
+      <ul>
+        <li>Python (Pandas, NumPy, Scikit-learn)</li>
+        <li>Data Visualization (D3.js, Matplotlib, Seaborn)</li>
+        <li>Machine Learning & Statistical Modeling</li>
+        <li>SQL & Database Management</li>
+        <li>HTML, CSS & Web Development</li>
+        <li>Version Control with Git & GitHub</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
