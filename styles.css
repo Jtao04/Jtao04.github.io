@@ -1,11 +1,7 @@
 /* Custom font (Comic Sans) */
 body {
-  font-family: 'Comic Sans MS', 'Chalkboard SE', cursive;
-  font-weight: 300;
-  background-color: #f4f6f9;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   color: #2c2c2c;
-  margin: 0;
-  padding: 0;
 }
 
 /* Navigation */
